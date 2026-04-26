@@ -72,9 +72,3 @@ kotlin.incremental=false
 Developed by Wang Chuan-bo
 
 
----
-
-### 💡 寫給資深工程師的建議：
-1. **LICENSE 檔案**：如果你的 Repo 還沒有授權檔案，建議補上一個 `LICENSE` (例如 MIT)，這對開源專案來說是標準做法。
-2. **Screenshots**：建議在 `README` 中加入 1-2 張 App 的截圖，這會讓專案看起來更專業。
-3. **FVM 提醒**：因為你的團隊或個人環境習慣使用 `fvm`，在 `README` 中特別標註可以減少其他開發者協作時
